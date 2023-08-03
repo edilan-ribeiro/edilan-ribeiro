@@ -18,7 +18,7 @@
 </div>
 
 <p align="center"> 
-  Sou um desenvolvedor <strong>Front End</strong> que gosta de aprender e resolver problemas, focado sempre em entregar a melhor solução possível.
+  Sou um desenvolvedor <strong>FrontEnd</strong> que gosta de aprender e resolver problemas, focado sempre em entregar a melhor solução possível.
   <br><br>
   🤖 Nas horas vagas aproveito meu tempo livre para jogar, ver filmes/séries/animes.
   <br><br>

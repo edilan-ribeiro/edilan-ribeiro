@@ -18,7 +18,7 @@
 </div>
 
 <p align="center"> 
-  I'm a <strong>Front End</strong> developer who likes to learn and solve problems, always focused on delivering the best possible solution.
+  I'm a <strong>FrontEnd</strong> developer who likes to learn and solve problems, always focused on delivering the best possible solution.
   <br><br>
   🤖 In my spare time I enjoy playing games, watch movies/series/anime.
   <br><br>
