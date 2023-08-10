@@ -58,11 +58,14 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
-
-<div align="center" id="user-content-toc">
+<div align="center" id="user-content-toc"> 
   <ul>
-    <summary>
-        <img src="./src/images/skills.gif" width ="25"> <h2 style="display: inline-block"> Skills</h2>
+    
+  <summary>
+
+![skills](https://github.com/edilan-ribeiro/edilan-ribeiro/assets/134718124/f12493ff-0f30-460d-b11f-3ebf19d8e95f)
+  
+  <h2 style="display: inline-block"> Skills</h2>
     </summary>
   </ul>
 
@@ -106,10 +109,17 @@
 
 
 <div align="center" id="user-content-toc">
-  <ul>
-    <summary>
-        <img src="./src/images/stats.gif" width ="25"> <h2 style="display: inline-block"> Github Stats</h2>
-    </summary>
+
+
+
+  <ul>  
+      
+  <summary>
+
+![stats](https://github.com/edilan-ribeiro/edilan-ribeiro/assets/134718124/7b4f0534-3ddd-498a-9f7c-a407ebfcc19f)   <h2 style="display: inline-block"> Github Stats</h2>
+    
+  </summary>
+  
   </ul>
   
   <a href="https://github.com/edilan-ribeiro">
