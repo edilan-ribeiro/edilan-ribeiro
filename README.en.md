@@ -22,7 +22,7 @@
   <br><br>
   🤖 In my spare time I enjoy playing games, watch movies/series/anime.
   <br><br>
-  🌱 Currently tweaking my vanilla JavaScript.
+  🌱 Currently learning React.js
   <br>
 </p>
 
