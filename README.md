@@ -22,7 +22,7 @@
   <br><br>
   🤖 Nas horas vagas aproveito meu tempo livre para jogar, ver filmes/séries/animes.
   <br><br>
-  🌱 Atualmente aprimorando o JavaScript <s>baunilha</s> vanilla.
+  🌱 Atualmente aprendendo React.js
   <br>
 </p>
 
