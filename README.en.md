@@ -22,7 +22,7 @@
   <br><br>
   🤖 In my spare time I enjoy playing games, watch movies/series/anime.
   <br><br>
-  🌱 Currently learning React.js
+  🌱 Currently learning TypeScript
   <br>
 </p>
 
@@ -75,12 +75,13 @@
 
 
 
-🖥️ **Languages**:
+🖥️ **Tech**:
 
 
 ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/react%20-%23282525.svg?style=for-the-badge&logo=react&logoColor=%2361DBFB)
 
 <br>
 
