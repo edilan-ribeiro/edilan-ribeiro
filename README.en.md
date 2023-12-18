@@ -78,10 +78,16 @@
 🖥️ **Tech**:
 
 
-![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=fff)
 ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/react%20-%23282525.svg?style=for-the-badge&logo=react&logoColor=%2361DBFB)
+![Next.js](https://img.shields.io/badge/nextjs%20-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=fff)
+![TypeScript](https://img.shields.io/badge/TypeScript%20-%233178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=fff)
+
+![Sass](https://img.shields.io/badge/Sass%20-%23CD6799.svg?style=for-the-badge&logo=Sass&logoColor=fff)
+![Tailwind Css](https://img.shields.io/badge/tailwindcss%20-%23065492.svg?style=for-the-badge&logo=tailwindcss&logoColor=32d6edff)
+![Styeld Components](https://img.shields.io/badge/styledcomponents%20-%23DB7093.svg?style=for-the-badge&logo=styledcomponents&logoColor=F7CF3C)
 
 <br>
 
