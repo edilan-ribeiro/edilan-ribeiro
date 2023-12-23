@@ -87,7 +87,7 @@
 
 ![Sass](https://img.shields.io/badge/Sass%20-%23CD6799.svg?style=for-the-badge&logo=Sass&logoColor=fff)
 ![Tailwind Css](https://img.shields.io/badge/tailwindcss%20-%23065492.svg?style=for-the-badge&logo=tailwindcss&logoColor=32d6edff)
-![Styeld Components](https://img.shields.io/badge/styledcomponents%20-%23DB7093.svg?style=for-the-badge&logo=styledcomponents&logoColor=F7CF3C)
+![Styeld Components](https://img.shields.io/badge/styled%20components%20-%23DB7093.svg?style=for-the-badge&logo=styledcomponents&logoColor=F7CF3C)
 
 <br>
 
